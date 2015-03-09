@@ -18,10 +18,10 @@ $rcmail_config['recaptcha_https'] = false;
 // Keys can be obtained from http://recaptcha.net/whyrecaptcha.html
 
 // Public key for reCAPTCHA
-$rcmail_config['recaptcha_sitekey'] = '***Key Site***';
+$rcmail_config['recaptcha_sitekey'] = '*** Key Site ***';
 
 // Private key for reCAPTCHA
-$rcmail_config['recaptcha_privatekey'] = '***Private key***';
+$rcmail_config['recaptcha_privatekey'] = '*** Private Key ***';
 
 // Log events
 $rcmail_config['recaptcha_log'] = false;
